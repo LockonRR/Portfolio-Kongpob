@@ -165,12 +165,12 @@ const about: About = {
       },
       {
         title: "Databases",
-        description: "MySQL, MongoDB, SQLite",
+        description: "MySQL, MongoDB, SQLite, Supabase",
         images: [],
       },
       {
         title: "Tools & Platforms",
-        description: "Git / GitHub, Docker, Firebase Hosting, VS Code, DBeaver, Orange",
+        description: "Git / GitHub, Docker, Firebase Hosting, VS Code, DBeaver, Orange, Antigravity",
         images: [],
       },
     ],
